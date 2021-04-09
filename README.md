@@ -5,4 +5,4 @@
 <hr size="30">
 
 <h3><p>Languages and Tools I have used so far:</p></h3>
-<img src="python-computer-icons-tutorial-computer-programming-social-icons-miscellaneous-angle-text-thumbnail.png" alt="alt text" width="30px" height="30px">
+<img src="https://w7.pngwing.com/pngs/792/780/png-transparent-python-computer-icons-tutorial-computer-programming-social-icons-miscellaneous-angle-text-thumbnail.png" alt="alt text" width="30px" height="30px">
