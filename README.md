@@ -1,1 +1,1 @@
-Hey there! ![Alt Text](https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626)
+Hey there! ![Alt Text](https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif)
