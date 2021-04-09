@@ -1,1 +1,1 @@
-Hey there! ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+Hey there! ![Alt Text](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
