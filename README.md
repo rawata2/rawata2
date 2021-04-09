@@ -8,5 +8,5 @@ Welcome to my profile. </p>
 <!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="alt text" width="70px" height="70px"> -->
 <div>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="alt text" width="70px" height="70px" />
-<img src="http://assets.stickpng.com/images/58480e82cef1014c0b5e4927.png" alt="alt text" width="70px" height="70px"/>
+<img src="https://mpng.subpng.com/20180802/whc/kisspng-penguin-tux-design-logo-linux-cheap-linux-hosting-cheapest-linux-web-hosting-pla-5b6322afc09510.3494081415332235997888.jpg alt="alt text" width="70px" height="70px"/>
 </div>
