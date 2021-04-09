@@ -1,1 +1,1 @@
-Hey There <img src= "<https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>
+Hey there! ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
