@@ -20,10 +20,10 @@
 <hr>
  
 <h3><b>My Stats:</b></h3>
-<div>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rawata2&theme=dark" /> 
+<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rawata2&theme=vision-friendly-dark" />
-</div>
+
 
 <!--
 <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawata2&layout=compact&theme=dark"/> -->
