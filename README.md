@@ -15,3 +15,7 @@ Welcome to my profile. </p>
 <a href="https://www.nano-editor.org/">
 <img src="https://github.com/rawata2/images/blob/main/nano.png" alt="alt text" width="70px" height="70px" />
 </div>
+<br>
+<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rawata2)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rawata2&theme=dark)](https://git.io/streak-stats)
