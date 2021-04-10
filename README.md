@@ -21,7 +21,8 @@ Welcome to my profile. </p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rawata2&theme=dark" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rawata2&theme=vision-friendly-dark" />
 </div>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawata2&layout=compact&theme=dark" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawata2&layout=compact&theme=dark" align="center"/>
 
  <!-- username=rawata2&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" /> -->
  
