@@ -1,11 +1,9 @@
 <h3><b>Hi there, I'm Arvind!</b>
 <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" alt="alt text" width="30px" height="30px"></h3>
-<hr>
 <p> Welcome to my profile. </p>
 <p> I am 1st year student studying Computer Science in DCU. </p>
 
-
-
+<hr>
 
 <h3><b>Languages and Tools I have used so far:</b></h3>
 <div>
@@ -18,8 +16,8 @@
 <a href="https://www.nano-editor.org/">
 <img src="https://github.com/rawata2/images/blob/main/nano.png" alt="alt text" width="70px" height="70px" /> </a>
 </div>
-
-
+ 
+<hr>
  
 <h3><b>My Stats:</b></h3>
 <div>
