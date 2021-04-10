@@ -7,13 +7,13 @@ Welcome to my profile. </p>
 <h3><p>Languages and Tools I have used so far:</p></h3>
 <div>
 <a href="https://www.python.org/">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="alt text" width="70px" height="70px" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="alt text" width="70px" height="70px" /> </a>
 <a href="https://www.w3schools.com/html/">
-<img src="https://github.com/rawata2/images/blob/main/html%20css.png" alt="alt text" width="130px" height="70px" />
+<img src="https://github.com/rawata2/images/blob/main/html%20css.png" alt="alt text" width="130px" height="70px" /> </a>
 <a href="https://www.linux.org/">
-<img src="https://github.com/rawata2/images/blob/main/linux.png" alt="alt text" width="70px" height="70px" />
+<img src="https://github.com/rawata2/images/blob/main/linux.png" alt="alt text" width="70px" height="70px" /> </a>
 <a href="https://www.nano-editor.org/">
-<img src="https://github.com/rawata2/images/blob/main/nano.png" alt="alt text" width="70px" height="70px" />
+<img src="https://github.com/rawata2/images/blob/main/nano.png" alt="alt text" width="70px" height="70px" /> </a>
 </div>
 <br>
  
