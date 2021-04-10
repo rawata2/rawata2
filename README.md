@@ -25,5 +25,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rawata2&theme=vision-friendly-dark" />
 
 
-<!--
-<br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawata2&layout=compact&theme=dark"/> -->
+
+<br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawata2&layout=compact&theme=dark"/> 
