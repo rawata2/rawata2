@@ -12,6 +12,6 @@ Welcome to my profile. </p>
 <img src="https://github.com/rawata2/images/blob/main/html%20css.png" alt="alt text" width="130px" height="70px" />
 <a href="https://www.debian.org/">
 <img src="https://github.com/rawata2/images/blob/main/linux.png" alt="alt text" width="70px" height="70px" />
-<img src="https://www.nano-editor.org/">
+<a href="https://www.nano-editor.org/">
 <img src="https://github.com/rawata2/images/blob/main/nano.png" alt="alt text" width="70px" height="70px" />
 </div>
