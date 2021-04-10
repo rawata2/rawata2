@@ -17,7 +17,7 @@ Welcome to my profile. </p>
 </div>
 <br>
 <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rawata2&theme=highcontrast" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rawata2&theme=algolia" />
 <br>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rawata2&theme=algolia" />
