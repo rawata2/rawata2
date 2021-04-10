@@ -24,8 +24,8 @@ Welcome to my profile. </p>
 <br>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawata2&layout=compact&theme=dark" align="center"/> -->
 
-<table cellpadding="0" cellspacing="0" border="0" width="100%">
-<tr><td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawata2&layout=compact&theme=dark">
-</td></tr>
-</table>
+<div style="text-align: center">
+<a href="link">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawata2&layout=compact&theme=dark" align="center"></a>
+</div>
