@@ -8,5 +8,5 @@ Welcome to my profile. </p>
 <div>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="alt text" width="70px" height="70px" />
 <img src="https://github.com/rawata2/images/blob/main/html%20css.png" alt="alt text" width="130px" height="70px" />
-<img src="https://github.com/rawata2/images/blob/main/linux.png" alt="alt text" width="70px" height="70px" />
+<img src="https://github.com/rawata2/images/blob/main/linux.png" alt="alt text" width="80px" height="70px" />
 </div>
