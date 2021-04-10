@@ -15,9 +15,9 @@ Welcome to my profile. </p>
 <a href="https://www.nano-editor.org/">
 <img src="https://github.com/rawata2/images/blob/main/nano.png" alt="alt text" width="70px" height="70px" />
 </div>
+<br>
 <div>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rawata2&theme=dark" />
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rawata2&theme=vision-friendly-dark" />
 </div>
  <!-- username=rawata2&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" /> -->
