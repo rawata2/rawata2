@@ -22,10 +22,4 @@ Welcome to my profile. </p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rawata2&theme=vision-friendly-dark" />
 </div>
 <br>
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawata2&layout=compact&theme=dark" align="center"/> -->
-
-<div style="text-align: center">
-<a href="link">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawata2&layout=compact&theme=dark" align="center"></a>
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawata2&layout=compact&theme=dark"/>
