@@ -17,14 +17,12 @@ Welcome to my profile. </p>
 <img src="https://github.com/rawata2/images/blob/main/nano.png" alt="alt text" width="70px" height="70px" /> </a>
 </div>
 
-<br>
+<hr>
  
 <h3><p>My Stats:</p></h3>
 <div>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rawata2&theme=dark" />
- 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rawata2&theme=dark" /> 
 &nbsp
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rawata2&theme=vision-friendly-dark" />
 </div>
 
