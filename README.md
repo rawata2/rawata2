@@ -1,13 +1,12 @@
-<div>
-<h3><p><b>Hi there, I'm Arvind!</b>
+## Hi there, I'm Arvind!
 <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" alt="alt text" width="30px" height="30px"></p></h3>
 <p> Welcome to my profile. </p>
 <p> I am 1st year student studying Computer Science in DCU. </p>
-</div>
 
-<hr size="20">
 
-<h3><p>Languages and Tools I have used so far:</p></h3>
+
+
+### Languages and Tools I have used so far:
 <div>
 <a href="https://www.python.org/">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="alt text" width="70px" height="70px" /> </a>
@@ -19,9 +18,9 @@
 <img src="https://github.com/rawata2/images/blob/main/nano.png" alt="alt text" width="70px" height="70px" /> </a>
 </div>
 
-<hr size="20">
+
  
-<h3><p>My Stats:</p></h3>
+### My Stats:
 <div>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rawata2&theme=dark" /> 
 &nbsp
