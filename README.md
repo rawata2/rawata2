@@ -10,7 +10,7 @@ Welcome to my profile. </p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="alt text" width="70px" height="70px" />
 <a href="https://www.w3schools.com/html/">
 <img src="https://github.com/rawata2/images/blob/main/html%20css.png" alt="alt text" width="130px" height="70px" />
-<a href="https://www.debian.org/">
+<a href="https://www.linux.org/">
 <img src="https://github.com/rawata2/images/blob/main/linux.png" alt="alt text" width="70px" height="70px" />
 <a href="https://www.nano-editor.org/">
 <img src="https://github.com/rawata2/images/blob/main/nano.png" alt="alt text" width="70px" height="70px" />
