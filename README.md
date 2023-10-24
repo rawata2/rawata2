@@ -19,10 +19,11 @@
  
 <hr>
  
+<!--
 <h3><b>My Stats:</b></h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawata2&layout=compact&theme=dark"/>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rawata2&theme=vision-friendly-dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rawata2&theme=vision-friendly-dark" /> -->
 
 
 
